@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Schedule Manager</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Schedule Manager   ver1.2</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Notes</string>
+    <string name="menu_Scedule_sheet">Scedule Sheet</string>
+    <string name="menu_slideshow">Monitor</string>
+    <string name="deleter">deleter</string>
+    <string name="noteslogo">noteslogo</string>
+    <string name="title_activity_open_note">OpenNoteActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="savebutton">saveButton</string>
+    <string name="title_activity_openone_note">OpenoneNote</string>
+    <string name="number_of_subjects">Number Of Subjects</string>
+    <string name="single_lecture_duration">Single Lecture Duration (minutes)</string>
+    <string name="working_days">Working Days</string>
+    <string name="day_starting_time_hh_mm">Day Starting time (HH:MM)</string>
+    <string name="day_ending_time_hh_mm">Day Ending time (HH:MM)</string>
+    <string name="break_duration">Break Duration (minutes)</string>
+    <string name="save">S  A  V  E</string>
+    <string name="editbutton">editbutton</string>
+    <string name="daily_time_table">Daily Time Table</string>
+</resources>

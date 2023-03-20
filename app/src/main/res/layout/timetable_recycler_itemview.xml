@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="80dp"
+    android:layout_height="535dp"
+    android:id="@+id/rvtimetableday">
+
+    <TextView
+        android:id="@+id/tvday"
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/singleline_right"
+        android:gravity="center"
+        android:text="DAY 22-JULY"
+        android:textAllCaps="true"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvfirst"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="37dp"
+        android:background="@drawable/singleline"
+
+        android:gravity="center"
+        android:text="DLCD-A/OOPs-B" />
+
+    <TextView
+        android:background="@drawable/singleline"
+
+        android:id="@+id/tvsecond"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="95dp"
+        android:gravity="center"
+        android:text="SUBJECT" />
+
+    <TextView
+        android:background="@drawable/singleline"
+
+        android:id="@+id/tvthird"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="154.5dp"
+        android:gravity="center"
+        android:text="SUBJECT" />
+
+    <TextView
+        android:background="@drawable/singleline"
+
+        android:id="@+id/tvfourth"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="216dp"
+        android:gravity="center"
+        android:text="SUBJECT" />
+
+    <TextView
+        android:background="@drawable/singleline"
+
+        android:id="@+id/tvfifth"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="276.5dp"
+        android:gravity="center"
+        android:text="SUBJECT" />
+
+    <TextView
+        android:background="@drawable/singleline"
+
+        android:id="@+id/tvsixth"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="337dp"
+        android:gravity="center"
+        android:text="SUBJECT" />
+
+    <TextView
+        android:background="@drawable/singleline"
+
+        android:id="@+id/tvseventh"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="397.5dp"
+        android:gravity="center"
+        android:text="SUBJECT" />
+
+    <TextView
+        android:background="@drawable/singleline"
+
+        android:id="@+id/tveigth"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="458dp"
+        android:gravity="center"
+        android:text="SUBJECT" />
+
+
+</RelativeLayout>
